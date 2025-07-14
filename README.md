@@ -4,6 +4,8 @@
 📊 HR Analytics Dashboard: Absenteeism Analysis
 This project explores employee absenteeism using interactive visual analytics built in Power BI. The dashboard provides deep insights into patterns, trends, and causes of absenteeism across different employee categories, seasons, and days of the week.
 
+(https://github.com/AhmedElamin20/HR-ANALYTICS-ABSENTEEISM/blob/main/Screenshot%20(43).png).
+
 📌 Key Insights
 Average Absenteeism Time:
 The average absenteeism time is 6.92 hours, with the highest absenteeism on Tuesday and the lowest on Friday.
