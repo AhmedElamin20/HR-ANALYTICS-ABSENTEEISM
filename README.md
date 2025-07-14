@@ -1,4 +1,4 @@
-<img width="745" height="742" alt="image" src="https://github.com/user-attachments/assets/ce32d97f-571b-4452-95f9-7f1b08772ae4" /># HR-ANALYTICS-ABSENTEEISM
+
 
 
 📊 HR Analytics Dashboard: Absenteeism Analysis
