@@ -1,10 +1,10 @@
-# HR-ANALYTICS-ABSENTEEISM
+<img width="745" height="742" alt="image" src="https://github.com/user-attachments/assets/ce32d97f-571b-4452-95f9-7f1b08772ae4" /># HR-ANALYTICS-ABSENTEEISM
 
 
 📊 HR Analytics Dashboard: Absenteeism Analysis
 This project explores employee absenteeism using interactive visual analytics built in Power BI. The dashboard provides deep insights into patterns, trends, and causes of absenteeism across different employee categories, seasons, and days of the week.
 
-[HR-ANALYTICS-ABSENTEEISM](https://github.com/AhmedElamin20/HR-ANALYTICS-ABSENTEEISM/blob/main/Screenshot%20(43).png).
+![HR-ANALYTICS-ABSENTEEISM](https://github.com/AhmedElamin20/HR-ANALYTICS-ABSENTEEISM/blob/main/Screenshot%20(43).png).
 
 📌 Key Insights
 Average Absenteeism Time:
